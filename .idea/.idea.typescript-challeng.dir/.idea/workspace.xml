@@ -1,20 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18ef8efb-eb80-4c6f-a742-75e2f33f1f81" name="Default Changelist" comment="" />
+    <list default="true" id="18ef8efb-eb80-4c6f-a742-75e2f33f1f81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/00007-easy-readonly.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00011-easy-tuple-to-object.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00014-easy-first.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00018-easy-tuple-length.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00043-easy-exclude.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00189-easy-awaited.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00268-easy-if.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00533-easy-concat.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00898-easy-includes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03057-easy-push.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.typescript-challeng.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.typescript-challeng.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.ts" />
+        <option value="$PROJECT_DIR$/00004-easy-pick.ts" />
+        <option value="$PROJECT_DIR$/00007-easy-readonly.ts" />
+        <option value="$PROJECT_DIR$/00011-easy-tuple-to-object.ts" />
+        <option value="$PROJECT_DIR$/00014-easy-first.ts" />
+        <option value="$PROJECT_DIR$/00018-easy-tuple-length.ts" />
+        <option value="$PROJECT_DIR$/00043-easy-exclude.ts" />
+        <option value="$PROJECT_DIR$/00189-easy-awaited.ts" />
+        <option value="$PROJECT_DIR$/00268-easy-if.ts" />
+        <option value="$PROJECT_DIR$/00533-easy-concat.ts" />
+        <option value="$PROJECT_DIR$/00898-easy-includes.ts" />
+        <option value="$PROJECT_DIR$/03057-easy-push.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="284qA9xcQ5t4kpucdBttfKygnXX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +50,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ts.external.directory.path" value="C:\typescript-challeng\node_modules\typescript\lib" />
   </component>
@@ -36,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650486061540</updated>
-      <workItem from="1650486068038" duration="247000" />
+      <workItem from="1650486068038" duration="4556000" />
     </task>
     <servers />
   </component>
@@ -50,4 +78,15 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
